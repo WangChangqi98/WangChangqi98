@@ -14,8 +14,7 @@ I am a current master student at Northeastern University, China and interested i
 <br/>
 
 # 📝 Publications
-<img src='assets/img/CSS.png' width="200px" style="margin:5000px float:left;">
-<p style="float:right;margin-left:100px;"><b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)</b></p>
+<img src='assets/img/CSS.png' width="200px" style="margin:5000px float:left;"><p style="float:right;margin-left:100px;"><b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)</b></p>
 <!-- <u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue <br/> -->
 <!-- [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
 PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation (Submitted to IJCV)<br/>
