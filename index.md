@@ -14,6 +14,11 @@ I am a current master student at Northeastern University, China and interested i
 <br/>
 
 # 📝 Publications
+<div>
+<img src="assets/img/CSS.png" alt="My Picture" width="200" height="200">
+<p>这是我的照片：</p>
+</div>
+
 <table>
 <tr align="left">
 <td><img src="assets/img/CSS.png" width="500px" alt="sym"></td>
