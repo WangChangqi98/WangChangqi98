@@ -31,7 +31,7 @@ I am a current master student at Northeastern University, China and interested i
 <td>
  <b>PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation (Submitted to IJCV)</b> <br/>
 Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Sun <br/>
-[\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
+<a herf='https://ojs.aaai.org/index.php/AAAI/article/view/25396'>[paper]</a><a herf='https://ojs.aaai.org/index.php/AAAI/article/view/25396'>[code]</a>
 </td>
 </tr>
  
