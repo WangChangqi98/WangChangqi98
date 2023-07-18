@@ -14,32 +14,38 @@ I am a current master student at Northeastern University, China and interested i
 <br/>
 
 # 📝 Publications
-<img src='assets/img/CSS.png' width="200px">
-<p style="float:right;margin-left:100px;"><b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)</b> </p>
-
- <table>
-
-<tr align="center">
-
-<td>Space Engage</td>
-
-<td><img src="assets/img/CSS.png" width="200px" height="200px" alt=""></td>
-
+<table>
+<tr align="left">
+<td><img src="assets/img/CSS.png" width="320px" alt="sym"></td>
+<td>
+ <b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)</b> <br/>
+ <u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue <br/>
+[\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
+</td>
 </tr>
 
 </table>
-
-<!-- <u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue <br/> -->
-<!-- [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
-PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation (Submitted to IJCV)<br/>
+<table>
+<tr align="left">
+<td><img src="assets/img/PTT.png" width="320px" alt="sym"></td>
+<td>
+ <b>PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation (Submitted to IJCV)</b> <br/>
 Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Sun <br/>
 [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
-  <img src='assets/img/PTT.png' alt="sym" width="200px" style="margin:0 auto;">
-Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations (AAAI 2023 oral)<br/>
-Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu <br/>
+</td>
+</tr>
+ 
+</table>
+<table>
+<tr align="left">
+<td><img src="assets/img/PRCL.png" width="320px" alt="sym"></td>
+<td>
+ <b>Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations (AAAI 2023 oral)</b> <br/>
+ Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu <br/>
 [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
-  <img src='assets/img/PRCL.png' alt="sym" width="200px" style="margin:0 auto;"> -->
-
+</td>
+</tr>
+</table>
 
 # 🎖 Honors and Awards
 * *2022.09*: Second Class Master Scholarship of Northeastern University
