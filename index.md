@@ -14,16 +14,11 @@ I am a current master student at Northeastern University, China and interested i
 <br/>
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV2023</div><img src='assets/img/CSS.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Both Style and Distortion Matter: Dual-Path Unsupervised Domain Adaptation for Panoramic Semantic Segmentation
-
-IEEE Conference on Computer Vision and Pattern Recognition, CVPR, 2023.
-
-<u>Xu Zheng</u>, Jinjing Zhu, Yexin Liu, Zidong Cao, Chong Fu, Lin Wang
-
-</div>
+<div id="container">
+<img src='assets/img/CSS.png' alt='sym' style='width:200px;'>
+<p style='float:right;margin-left:10px;'>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)<br/>
+<u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue <br/>
+[\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/></p>
 </div>
 * Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)<br/>
 <u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue <br/>
