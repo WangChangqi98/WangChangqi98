@@ -15,17 +15,17 @@ I am a current master student at Northeastern University, China and interested i
 
 # 📝 Publications
 <img src='assets/img/CSS.png' width="200px" style="margin:5000px float:left;">
-* Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)<br/>
-<u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue <br/>
-[\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
-* PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation (Submitted to IJCV)<br/>
+<p style="float:right;margin-left:10px;"><b>Space Engage: Collaborative Space Supervision for Contrastive-based Semi-Supervised Semantic Segmentation (ICCV 2023)</b></p>
+<!-- <u>Changqi Wang</u>, Haoyu Xie, Yuhui Yuan, Chong Fu, Xiangyu Yue <br/> -->
+<!-- [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
+PRCL: A Probabilistic View for Contrastive-based Semi-Supervised Semantic Segmentation (Submitted to IJCV)<br/>
 Haoyu Xie, <u>Changqi Wang</u>, Yang Liu, Jun Dan, Chong Fu, Jan Zhao, Baigui Sun <br/>
 [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
   <img src='assets/img/PTT.png' alt="sym" width="200px" style="margin:0 auto;">
-* Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations (AAAI 2023 oral)<br/>
+Boosting Semi-Supervised Semantic Segmentation with Probabilistic Representations (AAAI 2023 oral)<br/>
 Haoyu Xie, <u>Changqi Wang</u>, Mingkai Zheng, Minjing Dong, Chong Fu, Chang Xu <br/>
 [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/25396) [\[code\]](https://github.com/Haoyu-Xie/PRCL)<br/>
-  <img src='assets/img/PRCL.png' alt="sym" width="200px" style="margin:0 auto;">
+  <img src='assets/img/PRCL.png' alt="sym" width="200px" style="margin:0 auto;"> -->
 
 
 # 🎖 Honors and Awards
